@@ -10,21 +10,23 @@
 
 | 排名 | 项目 | Star 数 | 一句话介绍 |
 |------|------|---------|-----------|
-| 1 | Agent-Reach | 85K ⭐ | 一个命令让 AI 读遍全网社媒，零 API 费 |
-| 2 | career-ops | 72.5K ⭐ | 开源 AI 求职：扫岗 → 改简历 → 追投递 |
-| 3 | daily stock analysis | 65.5K ⭐ | 会盯盘的 AI：行情 + 新闻 + 定时推送 |
-| 4 | i-have-adhd | 50.5K ⭐ | 专治 AI 啰嗦，逼它先给结论 |
-| 5 | gods-eye-view | 41.5K ⭐ | 浏览器里的真实数据 3D 地球 |
-| 6 | colibri | 37.2K ⭐ | 纯 C 零依赖，本地跑大模型 |
-| 7 | VoiceStudio | 34.7K ⭐ | 本地 AI 配音：声音克隆 + 有声书 |
-| 8 | watermarks-remover | 22.6K ⭐ | 一键去掉你自己内容的 AI 水印 |
-| 9 | HowToLiveBetter | 12.7K ⭐ | 硬核生活指南：健康 / 理财 / 法律 |
-| 10 | oomwoo | 11.1K ⭐ | 开源扫地机器人，极客的浪漫 |
-| 🔥 | **Hypit** | **15K+ ⭐ (一周)** | **AI 视频复刻：1 个命令复刻爆款视频** |
+| 1 | [Agent-Reach](https://github.com/Panniantong/agent-reach) | 85K ⭐ | 一个命令让 AI 读遍全网社媒，零 API 费 |
+| 2 | [career-ops](https://github.com/career-ops-hq/career-ops) | 72.5K ⭐ | 开源 AI 求职：扫岗 → 改简历 → 追投递 |
+| 3 | [daily stock analysis](https://github.com/ZhuLinsen/daily-stock-analysis) | 65.5K ⭐ | 会盯盘的 AI：行情 + 新闻 + 定时推送 |
+| 4 | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | 50.5K ⭐ | 专治 AI 啰嗦，逼它先给结论 |
+| 5 | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 41.5K ⭐ | 浏览器里的真实数据 3D 地球 |
+| 6 | [colibri](https://github.com/JustVugg/colibri) | 37.2K ⭐ | 纯 C 零依赖，本地跑大模型 |
+| 7 | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | 34.7K ⭐ | 本地 AI 配音：声音克隆 + 有声书 |
+| 8 | [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 22.6K ⭐ | 一键去掉你自己内容的 AI 水印 |
+| 9 | [HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 12.7K ⭐ | 硬核生活指南：健康 / 理财 / 法律 |
+| 10 | [oomwoo](https://github.com/makerspet/oomwoo) | 11.1K ⭐ | 开源扫地机器人，极客的浪漫 |
+| 🔥 | **[Hypit](https://github.com/hypit-ai/hypit)** | **15K+ ⭐ (一周)** | **AI 视频复刻：1 个命令复刻爆款视频** |
 
 ---
 
-**作者：** Panniantong
+## 1️⃣ Agent-Reach ⭐ 85K
+
+**GitHub：** [Panniantong/agent-reach](https://github.com/Panniantong/agent-reach)
 
 **一句话：** 一个命令让 AI 读遍全网社媒，零 API 费！
 
@@ -46,7 +48,7 @@
 
 ## 2️⃣ career-ops ⭐ 72.5K
 
-**作者：** career-ops-hq
+**GitHub：** [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)
 
 **一句话：** 开源 AI 求职助手：扫岗 → 改简历 → 追投递！
 
@@ -67,7 +69,7 @@
 
 ## 3️⃣ daily stock analysis ⭐ 65.5K
 
-**作者：** ZhuLinsen
+**GitHub：** [ZhuLinsen/daily-stock-analysis](https://github.com/ZhuLinsen/daily-stock-analysis)
 
 **一句话：** 会盯盘的 AI：行情 + 新闻 + 定时推送！
 
@@ -88,7 +90,7 @@
 
 ## 4️⃣ i-have-adhd ⭐ 50.5K
 
-**作者：** ayghri
+**GitHub：** [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
 
 **一句话：** 专治 AI 啰嗦，逼它先给结论！
 
@@ -108,7 +110,7 @@
 
 ## 5️⃣ gods-eye-view ⭐ 41.5K
 
-**作者：** bilawalsidhu
+**GitHub：** [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 
 **一句话：** 浏览器里的真实数据 3D 地球！
 
@@ -129,7 +131,7 @@
 
 ## 6️⃣ colibri ⭐ 37.2K
 
-**作者：** JustVugg
+**GitHub：** [JustVugg/colibri](https://github.com/JustVugg/colibri)
 
 **一句话：** 纯 C 零依赖，本地跑大模型！
 
@@ -150,7 +152,7 @@
 
 ## 7️⃣ VoiceStudio ⭐ 34.7K
 
-**作者：** debpalash
+**GitHub：** [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
 
 **一句话：** 本地 AI 配音：声音克隆 + 有声书制作！
 
@@ -171,7 +173,7 @@
 
 ## 8️⃣ watermarks-remover ⭐ 22.6K
 
-**作者：** guillaumemeyer
+**GitHub：** [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
 
 **一句话：** 一键去掉你自己内容的 AI 水印！
 
@@ -190,7 +192,7 @@ AI 生成的内容带水印太丑了！自己做的东西当然要干干净净�
 
 ## 9️⃣ HowToLiveBetter ⭐ 12.7K
 
-**作者：** eternity4719
+**GitHub：** [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)
 
 **一句话：** 硬核生活指南：健康 / 理财 / 法律！
 
@@ -209,7 +211,7 @@ AI 生成的内容带水印太丑了！自己做的东西当然要干干净净�
 
 ## 🔟 oomwoo ⭐ 11.1K
 
-**作者：** makerspet
+**GitHub：** [makerspet/oomwoo](https://github.com/makerspet/oomwoo)
 
 **一句话：** 开源扫地机器人，极客的浪漫！
 
